@@ -9,6 +9,10 @@
   <a href="https://www.facebook.com/QuanMath007/">
     <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Messenger Badge"/>
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    
+  </a>
 </div>
 
 <h1 align="center">

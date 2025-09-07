@@ -25,8 +25,9 @@
 - 😄 My name is NGUYEN TRUONG DINH QUAN (nickname QUANJS), and I graduated from Ho Chi Minh City University of Technology (HCMUT), majoring in Computer Science (CS), interested in all things about SAP, ABAP, Python, Javascript, etc ...!
 
 - 🔭 I’m currently working on [FPT Software](https://fptsoftware.com/), building a SAP systems. 
-- 🌱 I recently built a program to automatically ...
-  - Send me ideas to ...   
+- 🌱 I recently built a program to automatically and enjoy to do programming and sharing new knowledge
+- 💬 Ask me about Anything [here](https://www.facebook.com/QuanMath007/)! I am happy to help.
+  - Send me ideas to **quan.mathematics@gmail.com**
 
 <!--
 **QUANJS2610/quanjs2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

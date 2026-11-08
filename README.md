@@ -11,8 +11,9 @@
 ## 🧭 About me
 
 - 💼 SAP ABAP Technical Consultant at **FPT Software**: **5+ years**, **6 SAP S/4HANA projects** across on-premise, RISE with SAP and private cloud.
-- 🏗️ Currently building **Clean Core** extensions (RAP business objects, CDS models, OData services on released APIs) for a global electronics manufacturer, working offshore with a Korean team.
+- 🏗️ Currently building **Clean Core** extensions (RAP business objects, CDS models, OData services for **Fiori Elements** apps, on released APIs) for a global electronics manufacturer, working offshore with a Korean team.
 - ⚡ I like making slow ABAP fast: typically reports from *hours to minutes*, or from *tens of minutes to under a minute*.
+- 🖥️ SAP Fiori: Fiori Elements on RAP services (UI annotations), plus **freestyle SAPUI5** apps.
 - 🧩 Classic ABAP too: OOP, BAPI/BAdI, exits & Enhancement Framework, ALV, Smart/Adobe Forms, RFC/IDoc/PI-PO integrations.
 - 🎓 Computer Science, Ho Chi Minh City University of Technology (HCMUT).
 - 🌱 Learning now: ABAP Cloud certification and BTP side-by-side extensions; growing toward a Technical Lead role.
@@ -26,6 +27,8 @@
 ![RAP](https://img.shields.io/badge/RAP-0A6ED1?style=flat-square)
 ![CDS Views](https://img.shields.io/badge/CDS_Views-0A6ED1?style=flat-square)
 ![OData](https://img.shields.io/badge/OData-0A6ED1?style=flat-square)
+![Fiori Elements](https://img.shields.io/badge/Fiori_Elements-0A6ED1?style=flat-square&logo=sap&logoColor=white)
+![SAPUI5](https://img.shields.io/badge/SAPUI5_%28freestyle%29-0A6ED1?style=flat-square&logo=sap&logoColor=white)
 ![ABAP Cloud](https://img.shields.io/badge/ABAP_Cloud_%2F_Clean_Core-0A6ED1?style=flat-square)
 ![SAP PI/PO](https://img.shields.io/badge/SAP_PI%2FPO-0A6ED1?style=flat-square)
 ![Smart Forms](https://img.shields.io/badge/Smart_%2F_Adobe_Forms-0A6ED1?style=flat-square)
@@ -49,6 +52,7 @@ Public demo projects, written from scratch on a trial ABAP system (no client cod
 |---|---|---|
 | `rap-purchase-request` | Managed RAP BO with draft, validations, determinations, actions; Fiori Elements via annotations; ABAP Unit | 🗓️ Planned |
 | `cds-analytics-sales` | CDS view stack (interface → consumption), analytical annotations, access control (DCL) | 🗓️ Planned |
+| `ui5-freestyle-approvals` | Freestyle SAPUI5 app (MVC, routing, OData V4 model) on top of a RAP service | 🗓️ Planned |
 | `abap-perf-playbook` | Before/after performance patterns: SELECT in loop, FOR ALL ENTRIES vs JOIN, CDS pushdown | 🗓️ Planned |
 
 ## 📫 Get in touch
